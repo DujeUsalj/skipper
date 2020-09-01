@@ -1,0 +1,86 @@
+.Div {
+  display: flex;
+  flex-direction: column;
+  margin-top: 90px;
+  width: 300px;
+}
+.Field {
+  height: 10px;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.17px;
+  color: black;
+  margin-bottom: 0px;
+}
+.DivParagraph {
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  margin-bottom: 30px;
+  margin-top: 0px;
+}
+.Paragraph {
+  height: 17px;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #353535;
+  margin-right: 5px;
+}
+.DisplayRow {
+  display: flex;
+  flex-direction: row;
+}
+.Button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  /* margin-top: 0px; */
+  /* margin-bottom: 20px;
+  margin-left: 163px; */
+  /* box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2) !important;
+  background-color: #f0577c !important;
+  border-radius: 50%;
+  width: 40px !important;
+  height: 40px !important; */
+}
+.FlexGrow {
+  flex-grow: 1;
+}
+.InputLabel {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+.Oval {
+  margin-top: 18px;
+  margin-left: 30px;
+}
+
+.MARINA {
+  height: 18px;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.17px;
+  color: #000000;
+}

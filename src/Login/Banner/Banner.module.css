@@ -1,0 +1,55 @@
+.Banner {
+  width: 100%;
+  height: 80px;
+  border: solid 1px #979797;
+  background-color: #3b7aaf;
+}
+.Text {
+  margin-left: 8.33%;
+  margin-right: 8.33%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 24px;
+}
+.Booking {
+  width: 146px;
+  height: 12px;
+  font-family: HelveticaNeue;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+.Terms {
+  width: 104px;
+  height: 12px;
+  font-family: HelveticaNeue;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #ffffff;
+}
+.Privacy {
+  width: 93px;
+  height: 12px;
+  margin-left: 40px;
+  font-family: HelveticaNeue;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #ffffff;
+}
+.Width {
+  flex-grow: 1;
+}

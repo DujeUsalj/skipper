@@ -1,0 +1,118 @@
+.Div {
+  display: flex;
+  flex-direction: column;
+  margin-top: 79px;
+}
+.Row {
+  display: flex;
+  flex-direction: row;
+  height: 27px;
+}
+
+.YourSkills {
+  margin-top: 0px;
+  width: 127px;
+  height: 31px;
+  font-family: HelveticaNeue;
+  font-size: 26px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.2px;
+  color: black;
+}
+.Skill {
+  width: 57px;
+  height: 17px;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #353535;
+}
+.Number {
+  width: 9px;
+  height: 17px;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #353535;
+}
+.Width {
+  flex-grow: 1;
+}
+.Line {
+  margin-top: 10px;
+  flex-grow: 1;
+  height: 1px;
+  border: solid 1px #06d6a0;
+  background-color: #06d6a0;
+}
+.By {
+  margin-top: 40px;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.87;
+  letter-spacing: normal;
+  color: #353535;
+}
+.DisplayRow {
+  display: flex;
+  flex-direction: row;
+}
+.Button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  /* margin-top: 0px; */
+  margin-bottom: 28px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2) !important;
+  background-color: #f0577c !important;
+  border-radius: 50%;
+  width: 40px !important;
+  height: 40px !important;
+}
+.DisplayColumn {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.Icon {
+  margin-bottom: 0px !important;
+  bottom: 0px !important;
+  margin-left: 20px;
+}
+.Icon1 {
+  margin: 0px !important;
+}
+.Height {
+  height: 13px;
+}
+.Button1 {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+.TextField1 {
+  margin-right: 40px !important;
+}

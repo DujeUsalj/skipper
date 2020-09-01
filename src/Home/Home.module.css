@@ -1,0 +1,25 @@
+.MarginTop {
+  margin-top: -97px;
+}
+.Logo1 {
+  margin-top: 96px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+}
+.Sidebar {
+  width: 240px;
+  height: 1622px;
+  background-color: #3b7aaf;
+  /* position: absolute; */
+  display: flex;
+  flex-direction: column;
+}
+.Top {
+  margin-top: 61px;
+}
+.MyLink {
+  text-decoration: none;
+}

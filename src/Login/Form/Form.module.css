@@ -1,0 +1,89 @@
+.Override {
+  min-height: 100vh;
+}
+.Form {
+  width: 428px;
+  height: 449px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.3);
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+.Light {
+  width: 328px;
+  height: 56px;
+  background-color: rgba(0, 0, 0, 0.38);
+}
+.Label {
+  width: 328px !important;
+  height: 75px !important;
+}
+.WelcomeSkipper {
+  width: 222px;
+  height: 31px;
+  font-family: HelveticaNeue;
+  font-size: 26px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #353535;
+  margin-top: 30px;
+}
+.RectangleLogin {
+  width: 205px;
+  height: 45px;
+  border-radius: 4.9px;
+  background-color: #f0577c;
+}
+.Razmak {
+  margin-top: 47px;
+}
+.Razmak2 {
+  margin-top: 35px;
+}
+.Register {
+  height: 14px;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #353535;
+}
+.Here {
+  /* text-decoration: underline; */
+  height: 14px;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #353535;
+  margin-left: 5px;
+}
+.Text {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 0;
+}
+.Button1 {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline: inherit;
+  margin-bottom: 2px;
+  margin-left: 3px;
+}

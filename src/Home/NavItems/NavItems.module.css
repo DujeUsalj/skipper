@@ -1,0 +1,23 @@
+.Name {
+  width: 240px;
+  height: 50px;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  /* margin-bottom: 21px; */
+}
+.Name:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}

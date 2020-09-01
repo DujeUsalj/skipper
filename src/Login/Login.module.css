@@ -1,0 +1,17 @@
+.Login {
+  /* display: flex;
+  flex-direction: column; */
+  background-color: #f7fbfc;
+}
+.Form1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 104px;
+  /* align-content: center;
+  align-items: center; */
+}
+.Banner1 {
+  bottom: 0px;
+  margin-bottom: 0px;
+  position: sticky;
+}

@@ -1,0 +1,30 @@
+.Header {
+  margin-left: 8.33%;
+  margin-right: 8.33%;
+  display: flex;
+  flex-direction: row;
+}
+.Skipper {
+  width: 72px;
+  height: 19px;
+  margin-top: 57px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #da4165;
+}
+.Width {
+  width: 100%;
+}
+.Header button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline: inherit;
+}
